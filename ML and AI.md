@@ -15,3 +15,9 @@ http://jalammar.github.io/illustrated-bert/
 Auto enhance photos with deep learning
 
 http://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/
+
+https://github.com/aiff22/DPED
+
+Style Transfer
+
+https://github.com/luanfujun/deep-photo-styletransfer
