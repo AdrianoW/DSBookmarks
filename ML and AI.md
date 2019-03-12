@@ -21,3 +21,11 @@ https://github.com/aiff22/DPED
 Style Transfer
 
 https://github.com/luanfujun/deep-photo-styletransfer
+
+### Reinforcement Learning
+
+https://github.com/higgsfield/RL-Adventure
+
+https://www.intel.ai/demystifying-deep-reinforcement-learning/#gs.07utdc
+
+https://medium.com/mlreview/speeding-up-dqn-on-pytorch-solving-pong-in-30-minutes-81a1bd2dff55
