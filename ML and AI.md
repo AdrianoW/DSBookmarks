@@ -33,3 +33,4 @@ https://medium.com/mlreview/speeding-up-dqn-on-pytorch-solving-pong-in-30-minute
 ### Utils
 
 Explainable models https://github.com/slundberg/shap
+https://www.youtube.com/watch?v=Q8rTrmqUQsU
